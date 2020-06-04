@@ -10,6 +10,7 @@
     "target": "es2017"
   },
   "include": [
-    "lib/**/*.ts"
+    "lib/**/*.ts",
+    "yargs.d.ts"
   ]
 }
